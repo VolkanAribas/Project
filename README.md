@@ -6,8 +6,8 @@ De eerste en de belangrijkste bedoeling van dit project is dat er een web of mob
 
 ### Fasen 
 - **Fase 1**: Idee genereren
-- Fase 2: Analyse van alles 
-- Fase 3: Wireframes maken
-- Fase 4: User stories/cases en ERD maken
-- Fase 5: Coderen
-- Fase 6: Besluiten
+- **Fase 2**: Analyse van alles 
+- **Fase 3**: Wireframes maken
+- **Fase 4**: User stories/cases en ERD maken
+- **Fase 5**: Coderen
+- **Fase 6**: Besluiten
