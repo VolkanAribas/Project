@@ -12,4 +12,6 @@ De eerste en de belangrijkste bedoeling van dit project is dat er een web of mob
 - **Fase 5**: Coderen
 - **Fase 6**: Besluiten
 
+### Functies
+
 
