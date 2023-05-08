@@ -21,9 +21,11 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 
 ## Welke technologie voor welke deel?
 ### *Frontend*
-HTML, CSS, JavaScript, React native
+React native
 ### *Backend*
-React native, JavaScript, Node.js, npm, Visual Studio Code, Android Studio
+Node.js, Firebase
+ 
+
 
 
 
