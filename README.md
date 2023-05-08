@@ -14,7 +14,7 @@ De eerste en de belangrijkste bedoeling van dit project is dat er een web of mob
 
 ### Functies
 De functies die in de applicatie zullen voorkomen zijn als volgt: <b> 
-1. <b/>
+<b/>
 2.
 3.
 
