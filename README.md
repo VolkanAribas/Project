@@ -1,6 +1,6 @@
 # Project: Yummy Foods
 ### Wie zijn wij?
-Wij zijn een groep van zeven studenten aan Erasmushogeschool die aan een project gestart hebben als doel een nieuwe applicatie te ontwikkelen.
+Wij zijn een groep van zeven studenten aan Erasmushogeschool die aan een project gestart hebben als doel een nieuwe webapplicatie te ontwikkelen.
 
 <!--
 **VolkanAribas/VolkanAribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
