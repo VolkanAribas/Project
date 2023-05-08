@@ -5,7 +5,7 @@ Wij zijn een groep van zeven studenten aan Erasmushogeschool die aan een project
 De eerste en de belangrijkste bedoeling van dit project is dat er een web of mobiele-applicatie ontwikkeld moet worden waarmee de eerstejaarsstudenten hierop zullen werken en als volgt dat idee tot een goed einde brengen. Wij hebben een beslissing genomen om een applicatie te maken voor de schoolrestaurant waarbij de studenten, leerkrachten en het personeel hun eten online kunnen bestellen zonder in de rij te wachten. Zo kan iedereen met, enkel, één vingerdruk de bestelling doorgeven aan de refter. Gedurende deze tijd zullen we ons project fase per fase verwerken.   
 
 ### Fasen 
-- *Fase 1*: Idee genereren
+- **Fase 1**: Idee genereren
 - Fase 2: Analyse van alles 
 - Fase 3: Wireframes maken
 - Fase 4: User stories/cases en ERD maken
