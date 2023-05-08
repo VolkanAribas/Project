@@ -14,10 +14,10 @@ De eerste en de belangrijkste bedoeling van dit project is dat er een web of mob
 
 ### Functies
 De functies die in de applicatie zullen voorkomen zijn als volgt: <b> 
-1. Registratie\login <b/>
+1. Registratie\login 
 2. Menu 
 3. Bestelling
-4. Notificaties 
+4. Notificaties <b/>
 
 
 
