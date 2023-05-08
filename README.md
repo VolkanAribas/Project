@@ -20,10 +20,10 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 4. Notificaties <b/>
 
 ## Welke technologie voor welke deel?
-### Frontend
-HTML
-CSS
-JavaScript
+#### Frontend
+HTML,
+CSS,
+JavaScript,
 React native
 
 
