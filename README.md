@@ -4,9 +4,7 @@ Wij zijn een groep van zeven studenten aan Erasmushogeschool die aan een project
 ### Wat houdt ons project in?
 De eerste en de belangrijkste bedoeling van dit project is dat er een web of mobiele-applicatie ontwikkeld moet worden waarmee de eerstejaarsstudenten hierop zullen werken en als volgt dat idee tot een goed einde brengen. Wij hebben een beslissing genomen om een applicatie te maken voor de schoolrestaurant waarbij de studenten, leerkrachten en het personeel hun eten online kunnen bestellen zonder in de rij te wachten. Zo kan iedereen met, enkel, één vingerdruk de bestelling doorgeven aan de refter. Gedurende deze tijd zullen we ons project fase per fase verwerken.   
 
-,k" kf 
-
-<!--
+### Fases !--
 **VolkanAribas/VolkanAribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
