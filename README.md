@@ -21,10 +21,7 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 
 ## Welke technologie voor welke deel?
 #### Frontend
-HTML,
-CSS,
-JavaScript,
-React native
+HTML, CSS, JavaScript, React native
 
 
 
