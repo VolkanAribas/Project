@@ -13,5 +13,7 @@ De eerste en de belangrijkste bedoeling van dit project is dat er een web of mob
 - **Fase 6**: Besluiten
 
 ### Functies
+De functies die in de applicatie zullen voorkomen zijn als volgt:
+1. 
 
 
