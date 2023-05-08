@@ -23,7 +23,7 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 ### *Frontend*
 React native
 ### *Backend*
-Node.js, Firebase
+Node.js en Firebase
  
 
 
