@@ -23,7 +23,7 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 ### *Frontend*
 HTML, CSS, JavaScript, React native
 ### *Backend*
-React native, JavaScript, Node.js, npm, Visual Studio Code 
+React native, JavaScript, Node.js, npm, Visual Studio Code, Android Studio
 
 
 
