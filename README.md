@@ -19,7 +19,7 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 3. Bestelling
 4. Notificaties <b/>
 
-# Welk technologie voor welk deel?
+## Welk technologie voor welk deel?
 
 
 
