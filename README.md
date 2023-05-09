@@ -21,7 +21,7 @@ De functies en hun beschrijving die in de applicatie zullen voorkomen staan hier
    
 2. Menu 
    
-   
+   De menu kan enkel bijgewerkt worden door het personeel. Terwijl de klanten enkel scrollen doorheen de menu en een product plaatsen in de winkelmand.
 3. Bestelling
 4. Notificaties <b/>
  
