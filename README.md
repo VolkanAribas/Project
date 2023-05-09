@@ -15,9 +15,13 @@ De eerste en de belangrijkste bedoeling van dit project is dat er een web of mob
 ### Functies
 De functies en hun beschrijving die in de applicatie zullen voorkomen staan hieronder als volgt: <b>
 1. Registratie\login 
+   
    Wij hebben twee personages, namelijk de klant en het personeel. De klanten moeten eerst een account aanmaken waarbij ze een link gaan krijgen in de mailbox van    de schoolaccount. Eens ze het activeren, zullen ze de mogelijkheid hebben voor het inloggen. 
    Het personeel hoeft er niet één aan te maken. Nadien kunnen ze meteen inloggen met hun referenties. 
+   
 2. Menu 
+   
+   
 3. Bestelling
 4. Notificaties <b/>
  
