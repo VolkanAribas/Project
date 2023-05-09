@@ -13,13 +13,15 @@ De eerste en de belangrijkste bedoeling van dit project is dat er een web of mob
 - **Fase 6**: Besluiten
 
 ### Functies
-De functies die in de applicatie zullen voorkomen zijn als volgt: <b> 
-1. Registratie\login 
+De functies en hun beschrijving die in de applicatie zullen voorkomen zijn als volgt: <b> 
+1. Registratie\login
+   Wij hebben twee personages, namelijk de klant en het personeel. De klanten moeten eerst een account aanmaken waarbij ze een link gaan krijgen in de mailbox van    de schoolaccount. Eens ze het activeren, zullen ze de mogelijkheid hebben voor het inloggen. 
+   Het personeel hoeft niet er één aan te maken. Ze kunnen meteen inloggen met hun referenties.
 2. Menu 
 3. Bestelling
 4. Notificaties <b/>
  
- ##### 'Registratie\login'
+ ##### 
 
 ## Welke technologie voor welke deel?
 ### *Frontend*
