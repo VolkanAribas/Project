@@ -24,6 +24,8 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 React native
 ### *Backend*
 Node.js en Firebase
+## Ons objectief
+Ons objectief is tot de dag van 2 juni 2023 een mooi applicatie in leven brengen en hier zijn we er hard voor bezig.
  
 
 
