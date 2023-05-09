@@ -18,6 +18,8 @@ De functies die in de applicatie zullen voorkomen zijn als volgt: <b>
 2. Menu 
 3. Bestelling
 4. Notificaties <b/>
+ 
+ ##### 'Registratie\login'
 
 ## Welke technologie voor welke deel?
 ### *Frontend*
